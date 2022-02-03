@@ -1,5 +1,5 @@
-# Responsive Landing Page Headphones 🎧
+# Idrugs Farmacia 🎧
 
 
-![](/drugs)
-![](/drugs2)
+![](/drugs.png)
+![](/drugs2.png)
